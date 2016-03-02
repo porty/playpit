@@ -2,6 +2,8 @@
 
 UI prototype for a Steam-like client.
 
+![game-thing](https://cloud.githubusercontent.com/assets/1373315/13459640/260c03ca-e0c9-11e5-93f4-2fb9dfe0bb90.gif)
+
 * Make a listbox with selectable items (single select only)
   * Doesn't account for _no_ selection or 0 items
   * Would be nice if items had an associated `interface{}` (tag?)
